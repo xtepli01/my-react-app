@@ -5,7 +5,7 @@ export default function App() {
   return (
     <main>
       <BlogCard
-        image="/assets/images/Blog Image.png"
+        image="/assets/images/BlogImage.png"
         category="HTML / CSS"
         title="Практична №3"
         date="Публікація 21 вересня 2025"
